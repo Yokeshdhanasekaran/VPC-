@@ -1,4 +1,4 @@
-# Ex-6-VPC-
+# Ex-6-IAM-
 ## NAME : YOKESH D
 ## REGNO : 212222220061
 ## AIM
